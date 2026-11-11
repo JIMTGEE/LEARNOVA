@@ -1,0 +1,82 @@
+[23-May-2025 15:31:39 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[23-May-2025 15:32:04 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[23-May-2025 15:58:13 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[23-May-2025 15:58:42 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 16:25:40 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 16:26:09 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 16:27:18 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 16:27:24 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 16:27:24 Africa/Accra] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.name' in 'SELECT' in /home/qpmseduc/public_html/admin/class_schedule.php:247
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/class_schedule.php(247): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/class_schedule.php on line 247
+[24-May-2025 16:57:07 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 16:57:24 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 16:57:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cs.term' in 'WHERE' in /home/qpmseduc/public_html/admin/class_schedule.php:32
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/class_schedule.php(32): mysqli_prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/class_schedule.php on line 32
+[24-May-2025 16:59:01 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 17:02:47 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 17:02:47 Africa/Accra] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'c.name' in 'SELECT' in /home/qpmseduc/public_html/admin/class_schedule.php:247
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/class_schedule.php(247): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/class_schedule.php on line 247
+[24-May-2025 17:05:35 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 17:05:40 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 17:06:17 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[24-May-2025 17:06:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cs.schedule_date' in 'ORDER BY' in /home/qpmseduc/public_html/admin/class_schedule.php:42
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/class_schedule.php(42): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/class_schedule.php on line 42
+[24-May-2025 17:06:20 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[25-May-2025 22:04:22 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 12:48:26 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:06:13 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:06:28 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:06:29 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:06:31 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:06:37 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:18:05 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:20:03 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:20:10 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:20:26 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:37:35 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:50:33 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:50:47 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 13:50:54 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[27-May-2025 20:56:31 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[28-May-2025 08:46:26 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[28-May-2025 09:03:00 UTC] Unauthorized access attempt: user_id=27, role=teacher
+[28-May-2025 11:18:22 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[30-May-2025 14:39:09 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[30-May-2025 14:39:39 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[30-May-2025 14:40:45 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[30-May-2025 14:40:55 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[01-Jun-2025 13:31:27 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[18-Jun-2025 12:19:16 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[18-Jun-2025 12:21:08 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[18-Jun-2025 13:50:52 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[19-Jun-2025 01:06:58 UTC] Admin not assigned as teacher: user_id=197
+[19-Jun-2025 01:07:06 UTC] Admin not assigned as teacher: user_id=197
+[19-Jun-2025 14:40:15 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[19-Jun-2025 14:53:42 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[20-Jun-2025 10:05:05 UTC] Invalid profile picture for user_id: 11, path: uploads/profiles/6820e77f5bcab.jpg
+[01-Jul-2025 22:32:02 UTC] Admin not assigned as teacher: user_id=197
+[17-Jul-2025 08:32:02 UTC] Admin not assigned as teacher: user_id=11
+[12-Aug-2025 09:02:59 UTC] Admin not assigned as teacher: user_id=33
+[19-Aug-2025 14:53:51 UTC] Admin not assigned as teacher: user_id=11
+[19-Aug-2025 14:54:03 UTC] Admin not assigned as teacher: user_id=11
+[19-Aug-2025 14:54:38 UTC] Admin not assigned as teacher: user_id=11
+[19-Aug-2025 15:01:55 UTC] Admin not assigned as teacher: user_id=11
+[19-Aug-2025 15:02:23 UTC] Admin not assigned as teacher: user_id=11
+[19-Aug-2025 15:05:58 UTC] Admin not assigned as teacher: user_id=11
+[22-Aug-2025 14:06:25 UTC] Admin not assigned as teacher: user_id=11
+[22-Aug-2025 14:06:34 UTC] Admin not assigned as teacher: user_id=11
+[31-Aug-2025 14:09:28 UTC] Admin not assigned as teacher: user_id=11
+[31-Aug-2025 14:09:29 UTC] Admin not assigned as teacher: user_id=11
+[31-Aug-2025 15:32:21 UTC] Admin not assigned as teacher: user_id=11

@@ -1,0 +1,170 @@
+[16-Oct-2025 16:05:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'qpmseduc_queenspa.extracurricular_activities' doesn't exist in /home/qpmseduc/public_html/admin/student_progress.php:268
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(268): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 268
+[16-Oct-2025 16:05:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'qpmseduc_queenspa.extracurricular_activities' doesn't exist in /home/qpmseduc/public_html/admin/student_progress.php:268
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(268): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 268
+[16-Oct-2025 16:09:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'qpmseduc_queenspa.extracurricular_activities' doesn't exist in /home/qpmseduc/public_html/admin/student_progress.php:268
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(268): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 268
+[16-Oct-2025 16:09:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'qpmseduc_queenspa.extracurricular_activities' doesn't exist in /home/qpmseduc/public_html/admin/student_progress.php:268
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(268): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 268
+[16-Oct-2025 16:16:25 UTC] Attempting to generate report for student_id: 48, term_id: 2, csrf_token: 60f22e380718af3876591897ade1646049f43c7d7396332157cf17bd3b6a2a0c
+[16-Oct-2025 16:16:25 UTC] CSRF token invalid or expired for user_id 11, token: 60f22e380718af3876591897ade1646049f43c7d7396332157cf17bd3b6a2a0c
+[16-Oct-2025 16:16:25 UTC] CSRF validation failed for generate_report, student_id: 48
+[16-Oct-2025 16:38:13 UTC] CSRF token invalid or expired for user_id 11, token: d982d5488ad80ed7cfb7bc8624a5ca77286d11823a0dc47f493f55753fd66233
+[16-Oct-2025 16:38:13 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[16-Oct-2025 16:38:20 UTC] Attempting to generate report for student_id: 48, term_id: 2, csrf_token: d982d5488ad80ed7cfb7bc8624a5ca77286d11823a0dc47f493f55753fd66233
+[16-Oct-2025 16:38:20 UTC] CSRF token invalid or expired for user_id 11, token: d982d5488ad80ed7cfb7bc8624a5ca77286d11823a0dc47f493f55753fd66233
+[16-Oct-2025 16:38:20 UTC] CSRF validation failed for generate_report, student_id: 48
+[17-Oct-2025 10:16:49 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:17:02 UTC] CSRF token invalid or expired for user_id 33, token: 2b11604e8565addb8b9440bf53dd37ff3965954d7393aa637bc2f8b2720d4a29
+[17-Oct-2025 10:17:02 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:17:15 UTC] CSRF token invalid or expired for user_id 33, token: 2b11604e8565addb8b9440bf53dd37ff3965954d7393aa637bc2f8b2720d4a29
+[17-Oct-2025 10:17:15 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:17:18 UTC] CSRF token invalid or expired for user_id 33, token: 2b11604e8565addb8b9440bf53dd37ff3965954d7393aa637bc2f8b2720d4a29
+[17-Oct-2025 10:17:18 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:17:26 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:17:45 UTC] CSRF token invalid or expired for user_id 33, token: 212437e409b3e81419a3cf12c2b71a397510c0a3aeea32534ebc6278525fd2c3
+[17-Oct-2025 10:17:45 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:17:49 UTC] CSRF token invalid or expired for user_id 33, token: 212437e409b3e81419a3cf12c2b71a397510c0a3aeea32534ebc6278525fd2c3
+[17-Oct-2025 10:17:49 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:17:56 UTC] CSRF token invalid or expired for user_id 33, token: 212437e409b3e81419a3cf12c2b71a397510c0a3aeea32534ebc6278525fd2c3
+[17-Oct-2025 10:17:56 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:18:02 UTC] CSRF token invalid or expired for user_id 33, token: 212437e409b3e81419a3cf12c2b71a397510c0a3aeea32534ebc6278525fd2c3
+[17-Oct-2025 10:18:02 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:18:08 UTC] CSRF token invalid or expired for user_id 33, token: 212437e409b3e81419a3cf12c2b71a397510c0a3aeea32534ebc6278525fd2c3
+[17-Oct-2025 10:18:08 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:18:11 UTC] CSRF token invalid or expired for user_id 33, token: 212437e409b3e81419a3cf12c2b71a397510c0a3aeea32534ebc6278525fd2c3
+[17-Oct-2025 10:18:11 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 10:18:14 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:21:41 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:24:12 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:33:16 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:33:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `qpmseduc_queenspa`.`users` (errno: 121 "Duplicate key on write or update") in /home/qpmseduc/public_html/admin/student_progress.php:58
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 58
+[17-Oct-2025 10:33:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `qpmseduc_queenspa`.`users` (errno: 121 "Duplicate key on write or update") in /home/qpmseduc/public_html/admin/student_progress.php:58
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 58
+[17-Oct-2025 10:37:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `qpmseduc_queenspa`.`users` (errno: 121 "Duplicate key on write or update") in /home/qpmseduc/public_html/admin/student_progress.php:58
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 58
+[17-Oct-2025 10:37:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `qpmseduc_queenspa`.`users` (errno: 121 "Duplicate key on write or update") in /home/qpmseduc/public_html/admin/student_progress.php:58
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 58
+[17-Oct-2025 10:37:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `qpmseduc_queenspa`.`users` (errno: 121 "Duplicate key on write or update") in /home/qpmseduc/public_html/admin/student_progress.php:58
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 58
+[17-Oct-2025 10:37:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `qpmseduc_queenspa`.`users` (errno: 121 "Duplicate key on write or update") in /home/qpmseduc/public_html/admin/student_progress.php:58
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/student_progress.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/student_progress.php on line 58
+[17-Oct-2025 10:37:38 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:40:11 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:40:24 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:24 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 10:40:28 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:28 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 10:40:30 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:30 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 10:40:31 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:31 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 10:40:34 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:34 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 10:40:36 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:36 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 10:40:38 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:38 UTC] CSRF validation failed for get_subject_comparison, student_id: 152
+[17-Oct-2025 10:40:41 UTC] CSRF token invalid or expired for user_id 33, token: 78d00ce41b471c1e1644ce8ac0e2c0d44d20de51391e493e588393068af9ffc6
+[17-Oct-2025 10:40:41 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 10:40:49 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:46:36 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 10:55:52 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 11:00:25 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 11:13:59 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 11:14:08 UTC] CSRF token invalid or expired for user_id 33, token: f59ba0914520b739f12f84b2a6d250cc38f33cf779434c673acb28186ef3ed15
+[17-Oct-2025 11:14:08 UTC] CSRF validation failed for get_subject_comparison, student_id: 41
+[17-Oct-2025 11:14:35 UTC] CSRF token invalid or expired for user_id 33, token: f59ba0914520b739f12f84b2a6d250cc38f33cf779434c673acb28186ef3ed15
+[17-Oct-2025 11:14:35 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 11:21:19 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 11:21:34 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:21:34 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 11:21:44 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:21:44 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 11:21:49 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:21:49 UTC] CSRF validation failed for get_subject_comparison, student_id: 110
+[17-Oct-2025 11:21:57 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:21:57 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 11:22:06 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:22:06 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 11:27:13 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:27:13 UTC] CSRF validation failed for get_subject_comparison, student_id: 50
+[17-Oct-2025 11:27:17 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:27:17 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 11:27:29 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:27:29 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 11:27:34 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:27:34 UTC] CSRF validation failed for get_subject_comparison, student_id: 111
+[17-Oct-2025 11:27:37 UTC] CSRF token invalid or expired for user_id 33, token: 28d0698c1559135bf1e018a03ea51096a044b61c8fcee0fe0d8f29e5d521ee70
+[17-Oct-2025 11:27:37 UTC] CSRF validation failed for get_subject_comparison, student_id: 110
+[17-Oct-2025 11:27:56 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 11:33:45 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 11:33:52 UTC] CSRF token invalid or expired for user_id 33, token: feea96c166eac1326e57b618fb3faabd17fe971eefca6c7b9fb0dd73fd93adcf
+[17-Oct-2025 11:33:52 UTC] CSRF validation failed for get_subject_comparison, student_id: 48
+[17-Oct-2025 11:39:12 UTC] Invalid profile picture for user_id: 33, path: Uploads/profiles/6825e17d893b1.jpg
+[17-Oct-2025 11:39:22 UTC] Invalid action requested: get_activities
+[17-Oct-2025 11:39:22 UTC] Received CSRF token for get_subject_comparison: 7a5ead5d689011ffdf61d6e064e26967a9cbae5ae7c407df25b9c81609377233 for user_id: 33
+[17-Oct-2025 11:39:23 UTC] CSRF token validated and deleted for user_id 33
+[17-Oct-2025 11:39:27 UTC] Generated new CSRF token for user_id: 33
+[17-Oct-2025 11:39:27 UTC] Invalid action requested: get_activities
+[17-Oct-2025 11:39:57 UTC] Invalid action requested: get_activities
+[17-Oct-2025 11:39:57 UTC] Received CSRF token for get_subject_comparison: 4ec10eefec7a220a474554cb3775acdf0df76d7d7c54cd47063543117baeb3a4 for user_id: 33
+[17-Oct-2025 11:39:57 UTC] CSRF token validated and deleted for user_id 33
+[17-Oct-2025 11:39:57 UTC] Generated new CSRF token for user_id: 33
+[17-Oct-2025 11:39:57 UTC] Invalid action requested: get_activities
+[17-Oct-2025 11:40:15 UTC] Invalid action requested: get_activities
+[17-Oct-2025 11:40:15 UTC] Received CSRF token for get_subject_comparison: c28ee5e8cfc322eff9240bc86ae092643a78bda8d9e032f49b20ca482ec3ee29 for user_id: 33
+[17-Oct-2025 11:40:15 UTC] CSRF token validated and deleted for user_id 33
+[17-Oct-2025 11:40:15 UTC] Generated new CSRF token for user_id: 33
+[17-Oct-2025 11:40:15 UTC] Invalid action requested: get_activities
+[17-Oct-2025 13:02:23 UTC] Invalid action requested: get_activities
+[17-Oct-2025 13:02:23 UTC] Received CSRF token for get_subject_comparison: 59f7a040aae9a206762c6d064d6f7a6a81a0f4a66eab24929173ad53d3cf6a72 for user_id: 11
+[17-Oct-2025 13:02:23 UTC] CSRF token validated and deleted for user_id 11
+[17-Oct-2025 13:02:24 UTC] Generated new CSRF token for user_id: 11
+[17-Oct-2025 13:02:24 UTC] Invalid action requested: get_activities
+[19-Oct-2025 15:38:55 UTC] Invalid action requested: get_activities
+[19-Oct-2025 15:38:55 UTC] Received CSRF token for get_subject_comparison: 8e122aba188bb64196f94025d367f5282dc4dde7647d9958b4bc86cb58afaa69 for user_id: 11
+[19-Oct-2025 15:38:55 UTC] CSRF token validated and deleted for user_id 11
+[19-Oct-2025 15:38:55 UTC] Generated new CSRF token for user_id: 11
+[19-Oct-2025 15:38:55 UTC] Invalid action requested: get_activities
+[26-Oct-2025 04:06:30 UTC] Generated new CSRF token for user_id: 11
+[26-Oct-2025 09:34:12 UTC] Generated new CSRF token for user_id: 11
+[26-Oct-2025 09:34:15 UTC] Unauthorized access attempt: user_id=unset, role=unset
+[30-Oct-2025 12:53:44 UTC] Unauthorized access attempt: user_id=27, role=teacher
+[04-Nov-2025 08:52:38 UTC] Unauthorized access attempt: user_id=unset, role=unset
+[04-Nov-2025 08:52:39 UTC] Invalid action requested: get_activities
+[04-Nov-2025 08:52:39 UTC] Received CSRF token for get_subject_comparison: ec161bb4ceb05e8cc5e98ace45567c7dc7c5bcf8e71c38b1e1cbe89324ce869e for user_id: 11
+[04-Nov-2025 08:52:40 UTC] CSRF token validated and deleted for user_id 11
+[04-Nov-2025 08:52:40 UTC] Generated new CSRF token for user_id: 11
+[04-Nov-2025 08:52:40 UTC] Invalid action requested: get_activities

@@ -1,0 +1,931 @@
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 13:22:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/user_management.php on line 391
+[04-Jul-2025 14:30:18 UTC] Unauthorized access attempt to manage_users.php by user_id: unknown
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "email" in /home/qpmseduc/public_html/admin/edit_user.php on line 299
+[04-Jul-2025 15:01:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 299
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 306
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 307
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 308
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 309
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 316
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 317
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "phone_number" in /home/qpmseduc/public_html/admin/edit_user.php on line 323
+[04-Jul-2025 15:01:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 323
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "national_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 329
+[04-Jul-2025 15:01:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 329
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "admission_date" in /home/qpmseduc/public_html/admin/edit_user.php on line 335
+[04-Jul-2025 15:01:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 335
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "department" in /home/qpmseduc/public_html/admin/edit_user.php on line 341
+[04-Jul-2025 15:01:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 341
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 349
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 350
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 351
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "phone" in /home/qpmseduc/public_html/admin/edit_user.php on line 357
+[04-Jul-2025 15:01:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 357
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "address" in /home/qpmseduc/public_html/admin/edit_user.php on line 363
+[04-Jul-2025 15:01:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 363
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "last_login" in /home/qpmseduc/public_html/admin/edit_user.php on line 377
+[04-Jul-2025 15:01:18 UTC] PHP Warning:  Undefined array key "last_ip" in /home/qpmseduc/public_html/admin/edit_user.php on line 382
+[18-Jul-2025 18:49:56 UTC] Error updating user: Unknown column 'updated_at' in 'SET'
+[19-Jul-2025 00:28:20 UTC] Error updating user: Unknown column 'updated_at' in 'SET'
+[19-Jul-2025 00:33:35 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) must only contain the "b", "d", "i", "s" type specifiers in /home/qpmseduc/public_html/admin/edit_user.php:217
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/edit_user.php(217): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/edit_user.php on line 217
+[20-Jul-2025 13:16:56 UTC] Profile picture upload error for user_id: 41, error code: 1
+[20-Jul-2025 13:17:24 UTC] Profile picture upload error for user_id: 41, error code: 1
+[20-Jul-2025 13:18:35 UTC] Profile picture upload error for user_id: 41, error code: 1
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "email" in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:31:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 266
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 267
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 268
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 269
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 277
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 278
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 279
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 280
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 284
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 305
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 326
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 350
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "phone" in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:31:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 390
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 391
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 392
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "address" in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:31:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:31:37 UTC] PHP Warning:  Undefined array key "admission_date" in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:31:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "email" in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:32:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 266
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 267
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 268
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 269
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 277
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 278
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 279
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 280
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 284
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 305
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 326
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 350
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "phone" in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:32:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 390
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 391
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 392
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "address" in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:32:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:32:05 UTC] PHP Warning:  Undefined array key "admission_date" in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:32:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:32:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/qpmseduc/public_html/admin/edit_user.php on line 3) in /home/qpmseduc/public_html/admin/edit_user.php on line 438
+[20-Jul-2025 13:32:05 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qpmseduc/public_html/admin/edit_user.php:470
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/edit_user.php(470): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/edit_user.php on line 470
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "email" in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:32:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 266
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 267
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 268
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 269
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 277
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 278
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 279
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 280
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 284
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 305
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 326
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 350
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "phone" in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:32:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 390
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 391
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 392
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "address" in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:32:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:32:08 UTC] PHP Warning:  Undefined array key "admission_date" in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:32:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:32:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/qpmseduc/public_html/admin/edit_user.php on line 3) in /home/qpmseduc/public_html/admin/edit_user.php on line 438
+[20-Jul-2025 13:32:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qpmseduc/public_html/admin/edit_user.php:470
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/edit_user.php(470): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/edit_user.php on line 470
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "email" in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:32:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 259
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 266
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 267
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 268
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 269
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 277
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 278
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 279
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "status" in /home/qpmseduc/public_html/admin/edit_user.php on line 280
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 284
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "department_id" in /home/qpmseduc/public_html/admin/edit_user.php on line 298
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 305
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 326
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/edit_user.php on line 350
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "phone" in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:32:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 383
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 390
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 391
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "gender" in /home/qpmseduc/public_html/admin/edit_user.php on line 392
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "address" in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:32:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 399
+[20-Jul-2025 13:32:17 UTC] PHP Warning:  Undefined array key "admission_date" in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:32:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/admin/edit_user.php on line 405
+[20-Jul-2025 13:32:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/qpmseduc/public_html/admin/edit_user.php on line 3) in /home/qpmseduc/public_html/admin/edit_user.php on line 438
+[20-Jul-2025 13:32:17 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/qpmseduc/public_html/admin/edit_user.php:470
+Stack trace:
+#0 /home/qpmseduc/public_html/admin/edit_user.php(470): mysqli->prepare()
+#1 {main}
+  thrown in /home/qpmseduc/public_html/admin/edit_user.php on line 470
+[21-Jul-2025 15:12:36 UTC] Old profile picture not found: /home/qpmseduc/public_html/Uploads/profiles/user_11_1753107605.jpg
+[21-Jul-2025 17:19:05 UTC] File too small for user_id: 47, size: 0
+[21-Jul-2025 17:19:44 UTC] File too small for user_id: 47, size: 0
+[21-Jul-2025 17:23:30 UTC] File too small for user_id: 47, size: 0
+[21-Jul-2025 17:24:18 UTC] File too small for user_id: 41, size: 0
+[21-Jul-2025 17:35:31 UTC] File too small for user_id: 47, size: 0, tmp_name: 
+[21-Jul-2025 17:37:20 UTC] File too small for user_id: 111, size: 0, tmp_name: 
+[21-Jul-2025 17:44:54 UTC] File too small for user_id: 111, size: 0, tmp_name: 
+[21-Jul-2025 17:45:29 UTC] File too small for user_id: 47, size: 0, tmp_name: 
+Unauthorized access attempt to user_management.php by user_id: unknown[22-Jul-2025 09:30:05 UTC] File too small for user_id: 46, size: 0, tmp_name: 
+[22-Jul-2025 09:30:14 UTC] File too small for user_id: 46, size: 0, tmp_name: 
+Unauthorized access attempt to user_management.php by user_id: unknown[22-Jul-2025 17:00:57 UTC] Old profile picture not found for user_id: 46, path: /home/qpmseduc/public_html/Uploads/profiles/user_46_1753118293.png
+Unauthorized access attempt to user_management.php by user_id: unknown[23-Jul-2025 10:21:37 UTC] Unauthorized access attempt to edit_user.php by user_id: unknown
+Unauthorized access attempt to user_management.php by user_id: unknown[23-Jul-2025 12:40:09 UTC] File too small for user_id: 143, size: 0, tmp_name: 
+[23-Jul-2025 12:40:49 UTC] File too small for user_id: 143, size: 0, tmp_name: 
+[23-Jul-2025 12:41:37 UTC] File too small for user_id: 144, size: 0, tmp_name: 
+[23-Jul-2025 12:43:19 UTC] File too small for user_id: 156, size: 0, tmp_name: 
+[23-Jul-2025 14:56:21 UTC] Unauthorized access attempt to edit_user.php by user_id: unknown
+[24-Jul-2025 10:45:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 10:57:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+Unauthorized access attempt to user_management.php by user_id: unknown[24-Jul-2025 11:19:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 11:43:31 UTC] File too small for user_id: 159, size: 0, tmp_name: 
+[24-Jul-2025 11:44:09 UTC] File too small for user_id: 159, size: 0, tmp_name: 
+[24-Jul-2025 11:44:23 UTC] File too small for user_id: 159, size: 0, tmp_name: 
+[24-Jul-2025 11:47:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 11:47:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 12:03:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+Unauthorized access attempt to user_management.php by user_id: unknownUnauthorized access attempt to user_management.php by user_id: unknown[24-Jul-2025 14:15:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 14:16:40 UTC] File too small for user_id: 101, size: 0, tmp_name: 
+[24-Jul-2025 14:17:07 UTC] File too small for user_id: 101, size: 0, tmp_name: 
+[24-Jul-2025 14:25:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 14:33:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 14:45:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/admin/edit_user.php(18): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[24-Jul-2025 14:56:18 UTC] File too small for user_id: 213, size: 0, tmp_name: 
+[24-Jul-2025 14:56:45 UTC] File too small for user_id: 213, size: 0, tmp_name: 
+[24-Jul-2025 14:57:25 UTC] File too small for user_id: 213, size: 0, tmp_name: 
+[24-Jul-2025 14:57:52 UTC] File too small for user_id: 213, size: 0, tmp_name: 
+[24-Jul-2025 15:10:35 UTC] File too small for user_id: 119, size: 0, tmp_name: 
+[24-Jul-2025 15:11:37 UTC] File too small for user_id: 119, size: 0, tmp_name: 
+Unauthorized access attempt to user_management.php by user_id: unknownUnauthorized access attempt to user_management.php by user_id: unknownUnauthorized access attempt to user_management.php by user_id: unknownUnauthorized access attempt to user_management.php by user_id: unknown[28-Jul-2025 10:33:39 UTC] File too small for user_id: 94, size: 0, tmp_name: 
+[28-Jul-2025 10:37:24 UTC] File too small for user_id: 94, size: 0, tmp_name: 
+[28-Jul-2025 10:44:22 UTC] File too small for user_id: 94, size: 0, tmp_name: 
+[28-Jul-2025 10:45:00 UTC] File too small for user_id: 94, size: 0, tmp_name: 
+[28-Jul-2025 10:45:35 UTC] File too small for user_id: 94, size: 0, tmp_name: 
+[28-Jul-2025 10:46:28 UTC] File too small for user_id: 94, size: 0, tmp_name: 
+Unauthorized access attempt to user_management.php by user_id: unknown[12-Aug-2025 17:40:34 UTC] Error fetching user data: Unknown column 'c.academic_year' in 'SELECT'
+[12-Aug-2025 17:40:34 UTC] Invalid profile picture for user_id: 197, path: Uploads/profiles/6852dc0f3d1dc.jpg
+[12-Aug-2025 17:40:38 UTC] Error fetching user data: Unknown column 'c.academic_year' in 'SELECT'
+[12-Aug-2025 17:40:38 UTC] Invalid profile picture for user_id: 197, path: Uploads/profiles/6852dc0f3d1dc.jpg
+[21-Aug-2025 10:13:25 UTC] PHP Warning:  Undefined array key "force_password_change" in /home/qpmseduc/public_html/admin/view_user.php on line 365
+[21-Aug-2025 10:13:41 UTC] PHP Warning:  Undefined array key "force_password_change" in /home/qpmseduc/public_html/admin/view_user.php on line 365
+[21-Aug-2025 10:17:42 UTC] Error fetching user data: Unknown column 'c.academic_year' in 'SELECT'
+[21-Aug-2025 10:20:11 UTC] PHP Warning:  Undefined array key "force_password_change" in /home/qpmseduc/public_html/admin/view_user.php on line 340
+[21-Aug-2025 10:20:11 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/view_user.php on line 364
+[21-Aug-2025 10:20:11 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/view_user.php on line 395
+[21-Aug-2025 10:20:11 UTC] PHP Warning:  Undefined array key "role" in /home/qpmseduc/public_html/admin/view_user.php on line 426
+[21-Aug-2025 10:23:15 UTC] Querying user_id: 51, Result: {"id":51,"name":"EMMANUEL AGYAPONG","email":"emmanuel@queens.com","role":"student","status":"active","phone":"233249562514","gender":"male","address":"Amasaman, SawMill","admission_date":"2025-05-16","last_login":"2025-07-15 18:53:13","last_ip":"154.161.53.198","national_id":"","force_password_change":1,"advisor_id":null,"department_id":null,"profile_picture":"Uploads\/profiles\/6827304c4fed7.png","department_name":null,"advisor_name":null}
+[21-Aug-2025 10:23:15 UTC] Student classes for user_id: 51, Result: []
+[21-Aug-2025 10:23:15 UTC] Activity logs for user_id: 51, Result: [{"action":"Accessed Student Dashboard","description":"Student accessed dashboard","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:53:13","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 27","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:53:13","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Student Dashboard","description":"Student accessed dashboard","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:42:05","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 27","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:42:05","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Student Dashboard","description":"Student accessed dashboard","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:41:12","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 27","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:41:12","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Student Dashboard","description":"Student accessed dashboard","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:41:06","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 27","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:41:06","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Student Dashboard","description":"Student accessed dashboard","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:40:43","user_name":"EMMANUEL AGYAPONG","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 27","ip_address":"154.161.53.198","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/135.0.0.0 Mobile Safari\/537.36","created_at":"2025-07-15 18:40:43","user_name":"EMMANUEL AGYAPONG","class_name":null}]
+[21-Aug-2025 10:35:57 UTC] Enrolled classes for user_id: 62, Result: []
+[21-Aug-2025 10:35:57 UTC] Error fetching grades for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 10:35:57 UTC] Error fetching quiz performance for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 10:35:57 UTC] Error fetching learning history for user_id: 62, Error: Table 'qpmseduc_queenspa.learning_history' doesn't exist
+[21-Aug-2025 10:37:29 UTC] Enrolled classes for user_id: 62, Result: []
+[21-Aug-2025 10:37:29 UTC] Error fetching grades for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 10:37:29 UTC] Error fetching quiz performance for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 10:37:29 UTC] Learning history for user_id: 62, Result: []
+[21-Aug-2025 10:38:06 UTC] Enrolled classes for user_id: 62, Result: []
+[21-Aug-2025 10:38:06 UTC] Error fetching grades for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 10:38:06 UTC] Error fetching quiz performance for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 10:38:06 UTC] Learning history for user_id: 62, Result: []
+[21-Aug-2025 12:12:31 UTC] Unauthorized access attempt to learn.php by user_id: unknown
+[21-Aug-2025 12:13:13 UTC] Unauthorized access attempt to view_user.php by user_id: unknown
+[21-Aug-2025 12:48:50 UTC] CSRF token validation failed for user_id: 62
+[21-Aug-2025 12:49:04 UTC] CSRF token validation failed for user_id: 62
+[21-Aug-2025 12:50:54 UTC] CSRF token validation failed for user_id: 62
+[21-Aug-2025 12:54:32 UTC] CSRF token validation failed for user_id: 62, Token: 7d36061793beb46e75efa2fc6f8ab6147351584de53c9d0f9832eede19e0e94a
+[21-Aug-2025 12:54:41 UTC] CSRF token validation failed for user_id: 62, Token: 90cbf34a85e0f3ea9d5ca3998e5b89b65bb42b8dc4daf9f369b5b97b4a85a032
+[21-Aug-2025 12:54:59 UTC] CSRF token validation failed for user_id: 62, Token: dac8945518f48f974405684a6912c1d3571f128e4265c5d6a896f298cec6d1dc
+[21-Aug-2025 13:00:19 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:00:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_activity() in /home/qpmseduc/public_html/student/learn.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/qpmseduc/public_html/student/learn.php on line 148
+[21-Aug-2025 13:00:27 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_activity() in /home/qpmseduc/public_html/student/learn.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/qpmseduc/public_html/student/learn.php on line 148
+[21-Aug-2025 13:00:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/student/learn.php(17): require_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[21-Aug-2025 13:00:50 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_activity() in /home/qpmseduc/public_html/student/learn.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/qpmseduc/public_html/student/learn.php on line 148
+[21-Aug-2025 13:01:56 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:02:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_activity() in /home/qpmseduc/public_html/student/learn.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/qpmseduc/public_html/student/learn.php on line 148
+[21-Aug-2025 13:03:16 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:03:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_activity() in /home/qpmseduc/public_html/student/learn.php:148
+Stack trace:
+#0 {main}
+  thrown in /home/qpmseduc/public_html/student/learn.php on line 148
+[21-Aug-2025 13:08:52 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:08:52 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: hi for user_id: 62
+[21-Aug-2025 13:09:09 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:09:10 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: can you assist with a movie i need for user_id: 62
+[21-Aug-2025 13:10:13 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:10:14 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: oh please i feel bored. if you cant help with a movie can you help for user_id: 62
+[21-Aug-2025 13:10:36 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:10:37 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: ok can you tell me a funny story for user_id: 62
+[21-Aug-2025 13:11:02 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:11:04 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: ok i want to know about coding for user_id: 62
+[21-Aug-2025 13:11:16 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:11:18 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: we have started html for user_id: 62
+[21-Aug-2025 13:11:52 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:11:53 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: what do you know about me for user_id: 62
+[21-Aug-2025 13:12:28 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:12:28 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: okay explain the second question you gave as exampl etpo me for user_id: 62
+[21-Aug-2025 13:12:45 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:12:50 UTC] Error saving to learning_history for user_id: 62, Error: Incorrect string value: '\xE2\x89\xA0 0....' for column `qpmseduc_queenspa`.`learning_history`.`response` at row 1
+[21-Aug-2025 13:12:53 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:12:59 UTC] Error saving to learning_history for user_id: 62, Error: Incorrect string value: '\xE2\x89\xA0 0....' for column `qpmseduc_queenspa`.`learning_history`.`response` at row 1
+[21-Aug-2025 13:13:43 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:13:48 UTC] Error saving to learning_history for user_id: 62, Error: Incorrect string value: '\xE2\x89\xA0 0....' for column `qpmseduc_queenspa`.`learning_history`.`response` at row 1
+[21-Aug-2025 13:13:53 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:13:58 UTC] Error saving to learning_history for user_id: 62, Error: Incorrect string value: '\xE2\x89\xA0 0....' for column `qpmseduc_queenspa`.`learning_history`.`response` at row 1
+[21-Aug-2025 13:14:02 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:14:02 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: hi for user_id: 62
+[21-Aug-2025 13:14:14 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:14:16 UTC] Error saving to learning_history for user_id: 62, Error: Incorrect string value: '\xCB\xA3 = 8...' for column `qpmseduc_queenspa`.`learning_history`.`response` at row 1
+[21-Aug-2025 13:14:35 UTC] Error fetching context for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[21-Aug-2025 13:14:36 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: how to solve equationshelp me solve an equation for user_id: 62
+[21-Aug-2025 13:20:26 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 13:20:27 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: hi for user_id: 62
+[21-Aug-2025 13:20:46 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 13:20:47 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: so you dont know my name for user_id: 62
+[21-Aug-2025 14:08:52 UTC] Unauthorized access attempt to learn.php by user_id: unknown
+[21-Aug-2025 14:10:09 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:10:10 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: hi for user_id: 62
+[21-Aug-2025 14:10:55 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:10:57 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: can you help me solve so equations in mathemaics for user_id: 62
+[21-Aug-2025 14:22:33 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:22:35 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: alita movie for user_id: 62
+[21-Aug-2025 14:23:47 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:23:48 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: i want to download the movie and you just gave me the full title. you are only supposed to help in education not chase fantasy. save in your memory for user_id: 62
+[21-Aug-2025 14:24:12 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:24:15 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: alita movie details for user_id: 62
+[21-Aug-2025 14:24:41 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:24:44 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: can you give me a list of movies like that for user_id: 62
+[21-Aug-2025 14:36:24 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:36:24 UTC] PHP Warning:  Undefined variable $is_answer in /home/qpmseduc/public_html/student/learn.php on line 246
+[21-Aug-2025 14:36:25 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: what is 600 devided by 10 for user_id: 62
+[21-Aug-2025 14:37:37 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:37:38 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: no give me the answer now for user_id: 62
+[21-Aug-2025 14:37:52 UTC] Error fetching context for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 14:37:54 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: what is 600 devided by 10 for user_id: 62
+[21-Aug-2025 20:43:36 UTC] Error fetching context for user_id: 48, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 20:43:38 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: what is the volume of a triangle for user_id: 48
+[21-Aug-2025 20:45:18 UTC] Error fetching context for user_id: 48, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 20:45:20 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: what is the formula of the area of a rectangle for user_id: 48
+[21-Aug-2025 20:46:18 UTC] Error fetching context for user_id: 48, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 20:46:20 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: what is an atom for user_id: 48
+[21-Aug-2025 20:49:02 UTC] Error fetching context for user_id: 48, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 20:49:04 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: how can i get my teacher fired for user_id: 48
+[21-Aug-2025 20:50:18 UTC] Error fetching context for user_id: 48, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 20:50:21 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: my teacher is not supporting me so how can  improve the situation for user_id: 48
+[21-Aug-2025 20:51:31 UTC] Error fetching context for user_id: 48, Error: Unknown column 'qs.total_score' in 'SELECT'
+[21-Aug-2025 20:51:33 UTC] log_activity not defined. Action: AI Interaction, Description: Sent prompt to EduBot: can i tell the police for user_id: 48
+[22-Aug-2025 00:07:05 UTC] Unauthorized access attempt to learn.php by user_id: unknown
+[22-Aug-2025 00:15:31 UTC] Querying user_id: 41, Result: {"id":41,"name":"DORCAS ABOAGYE","email":"dorcas@queens.com","role":"student","status":"active","phone":"233246477929","gender":"female","address":"0","admission_date":"2025-05-16","last_login":null,"last_ip":null,"national_id":"","force_password_change":1,"advisor_id":203,"department_id":7,"profile_picture":"\/Uploads\/profiles\/user_41_1753266169.jpg","department_name":"Upper Primary","advisor_name":"Oscar Agbeko"}
+[22-Aug-2025 00:15:31 UTC] Student classes for user_id: 41, Result: []
+[22-Aug-2025 00:15:31 UTC] Activity logs for user_id: 41, Result: []
+[22-Aug-2025 00:15:56 UTC] Querying user_id: 26, Result: {"id":26,"name":"Agyare Emmanuel Danso","email":"agyareemmanuel704@gmail.com","role":"teacher","status":"active","phone":"0531475205","gender":"male","address":"0","admission_date":"2024-12-31","last_login":"2025-08-20 08:49:41","last_ip":"154.161.51.112","national_id":"","force_password_change":1,"advisor_id":null,"department_id":8,"profile_picture":"\/Uploads\/profiles\/user_26_1753110572.jpg","department_name":"Junior High","advisor_name":null}
+[22-Aug-2025 00:15:56 UTC] Teacher subjects for user_id: 26, Result: [{"id":13,"subject_name":"SOCIAL STUDIES","subject_code":"SC-101","department_name":"Junior High"},{"id":14,"subject_name":"GHANAIAN LANGUAGE","subject_code":"GH-101","department_name":"Junior High"},{"id":37,"subject_name":"HISTORY","subject_code":"HIS-103","department_name":"Upper Primary"},{"id":38,"subject_name":"GHANAIAN LANGUAGE","subject_code":"GH-105","department_name":"Upper Primary"}]
+[22-Aug-2025 00:15:56 UTC] Activity logs for user_id: 26, Result: [{"action":"Accessed Manage Students","description":"Teacher accessed manage students page","ip_address":"154.161.51.112","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36","created_at":"2025-08-20 08:49:50","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Header","description":"Teacher header loaded, unread notifications: 0, unread evaluations: 0","ip_address":"154.161.51.112","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36","created_at":"2025-08-20 08:49:50","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Header","description":"Teacher header loaded, unread notifications: 0, unread evaluations: 0","ip_address":"154.161.51.112","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36","created_at":"2025-08-20 08:49:42","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Teacher Dashboard","description":"Teacher accessed dashboard","ip_address":"154.161.51.112","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/139.0.0.0 Safari\/537.36","created_at":"2025-08-20 08:49:41","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Teacher Dashboard","description":"Teacher accessed dashboard","ip_address":"154.161.149.119","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36","created_at":"2025-08-04 09:50:23","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Header","description":"Teacher header loaded, unread notifications: 0, unread evaluations: 0","ip_address":"154.161.149.119","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36","created_at":"2025-08-04 09:50:23","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Header","description":"Teacher header loaded, unread notifications: 0, unread evaluations: 0","ip_address":"154.161.149.119","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36","created_at":"2025-08-04 09:50:12","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Teacher Dashboard","description":"Teacher accessed dashboard","ip_address":"154.161.149.119","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36","created_at":"2025-08-04 09:50:11","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Manage Assignments Page","description":"Teacher accessed manage assignments page","ip_address":"154.161.149.119","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36","created_at":"2025-08-04 09:49:00","user_name":"Agyare Emmanuel Danso","class_name":null},{"action":"Accessed Header","description":"Teacher header loaded, unread notifications: 0, unread evaluations: 0","ip_address":"154.161.149.119","user_agent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36","created_at":"2025-08-04 09:49:00","user_name":"Agyare Emmanuel Danso","class_name":null}]
+[23-Aug-2025 15:57:39 UTC] Enrolled classes for user_id: 62, Result: []
+[23-Aug-2025 15:57:40 UTC] Error fetching grades for user_id: 62, Error: Unknown column 'g.student_id' in 'WHERE'
+[23-Aug-2025 15:57:40 UTC] Error fetching quiz performance for user_id: 62, Error: Unknown column 'qs.total_score' in 'SELECT'
+[23-Aug-2025 15:57:40 UTC] Chat history for user_id: 62, session_id: a131lf706o67902hgfalugb9fg, Result: []
+[23-Aug-2025 16:18:15 UTC] Error fetching student data for user_id: 62, Error: Unknown column 'user_id' in 'WHERE'
+[23-Aug-2025 16:18:15 UTC] PHP Warning:  Undefined variable $student_name in /home/qpmseduc/public_html/student/games.php on line 322
+[23-Aug-2025 16:18:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/qpmseduc/public_html/student/games.php on line 322
+[23-Aug-2025 16:20:49 UTC] Error tracking game play for user_id: 62, game_id: 1, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+Unauthorized access attempt to user_management.php by user_id: unknown[30-Aug-2025 02:30:14 UTC] Error updating user: Unknown column 'updated_at' in 'SET'
+[30-Aug-2025 02:31:35 UTC] Error updating user: Unknown column 'updated_at' in 'SET'
+[30-Aug-2025 02:36:53 UTC] Error updating user: Unknown column 'updated_at' in 'SET'
+[30-Aug-2025 02:37:02 UTC] Error updating user: Unknown column 'updated_at' in 'SET'
+Unauthorized access attempt to user_management.php by user_id: unknown[02-Sep-2025 17:10:24 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[02-Sep-2025 17:10:27 UTC] Unauthorized access attempt to games.php by user_id: unknown
+Unauthorized access attempt to user_management.php by user_id: unknownUnauthorized access attempt to user_management.php by user_id: unknown[08-Sep-2025 15:12:09 UTC] Unauthorized access attempt to view_user.php by user_id: unknown
+[08-Sep-2025 16:05:46 UTC] Unauthorized access attempt to add_user.php by user_id: unknown
+[08-Sep-2025 17:07:34 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[08-Sep-2025 17:07:36 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[10-Sep-2025 10:27:50 UTC] Querying user_id: 110, Result: {"id":110,"name":"JACOB ARYEEQUAYE ARYEE","email":"jacob@queens.com","role":"student","status":"active","phone":"233244384748","gender":"male","address":"Amasaman, SawMill","admission_date":"2025-05-17","last_login":"2025-07-18 09:23:35","last_ip":"154.160.9.161","national_id":"","force_password_change":1,"advisor_id":null,"department_id":null,"profile_picture":"Uploads\/profiles\/6829408760c23.png","department_name":null,"advisor_name":null}
+[10-Sep-2025 10:28:01 UTC] Student classes for user_id: 110, Result: []
+[10-Sep-2025 10:28:01 UTC] Activity logs for user_id: 110, Result: [{"action":"Accessed View Assignment Page","description":"Student accessed view assignment page","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:25:13","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Submitted Assignment","description":"Assignment ID 27 submitted","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:25:13","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed Manage Student Assignments Page","description":"Student accessed manage assignments page","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:25:13","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 26","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:25:13","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed View Assignment Page","description":"Student accessed view assignment page","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:24:12","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 26","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:24:12","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed Manage Student Assignments Page","description":"Student accessed manage assignments page","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:24:02","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 26","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:24:02","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed Header","description":"Student header loaded, unread notifications: 26","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:23:54","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null},{"action":"Accessed Student Dashboard","description":"Student accessed dashboard","ip_address":"154.160.9.161","user_agent":"Mozilla\/5.0 (Linux; Android 11; KIDS 8S) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/94.0.4606.85 Safari\/537.36","created_at":"2025-07-18 09:23:35","user_name":"JACOB ARYEEQUAYE ARYEE","class_name":null}]
+[10-Sep-2025 10:28:01 UTC] Invalid profile picture for user_id: 197, path: Uploads/profiles/6852dc0f3d1dc.jpg
+[10-Sep-2025 11:46:13 UTC] Error fetching user data: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_activity() in /home/qpmseduc/public_html/student/edubot.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/qpmseduc/public_html/student/edubot.php on line 99
+[10-Sep-2025 11:46:16 UTC] Error fetching user data: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function log_activity() in /home/qpmseduc/public_html/student/edubot.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/qpmseduc/public_html/student/edubot.php on line 99
+[10-Sep-2025 11:50:16 UTC] Error fetching user data: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:50:16 UTC] Failed to log activity for user_id 48: Table 'qpmseduc_queenspa.activity_log' doesn't exist
+[10-Sep-2025 11:50:16 UTC] [error] User 48: Failed to fetch user data: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:56:45 UTC] [table_creation] User 48: Created activity_log table
+[10-Sep-2025 11:56:45 UTC] [table_creation] User 48: Created chat_history table
+[10-Sep-2025 11:56:46 UTC] Error fetching user data for user_id: 48, Error: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:56:46 UTC] [error] User 48: Failed to fetch user data: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:57:36 UTC] Error fetching user data for user_id: 48, Error: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:57:36 UTC] [error] User 48: Failed to fetch user data: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:57:39 UTC] Error fetching user data for user_id: 48, Error: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 11:57:39 UTC] [error] User 48: Failed to fetch user data: Unknown column 'badge_name' in 'SELECT'
+[10-Sep-2025 16:38:44 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[11-Sep-2025 16:41:24 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[15-Sep-2025 19:07:00 UTC] Invalid profile picture for user_id: 110, path: Uploads/profiles/6829408760c23.png
+[15-Sep-2025 19:07:05 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[15-Sep-2025 19:07:08 UTC] Invalid profile picture for user_id: 110, path: Uploads/profiles/6829408760c23.png
+[15-Sep-2025 19:07:15 UTC] Invalid profile picture for user_id: 110, path: Uploads/profiles/6829408760c23.png
+[15-Sep-2025 19:07:26 UTC] Invalid profile picture for user_id: 110, path: Uploads/profiles/6829408760c23.png
+[16-Sep-2025 19:16:50 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[17-Sep-2025 08:03:15 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[17-Sep-2025 18:21:03 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[17-Sep-2025 18:25:07 UTC] Unauthorized access attempt to learn.php by user_id: unknown
+[17-Sep-2025 20:34:45 UTC] Invalid profile picture for user_id: 110, path: Uploads/profiles/6829408760c23.png
+[17-Sep-2025 20:34:52 UTC] Invalid profile picture for user_id: 110, path: Uploads/profiles/6829408760c23.png
+[23-Sep-2025 21:22:42 UTC] Invalid profile picture for user_id: 110, path: Uploads/profiles/6829408760c23.png
+[25-Sep-2025 14:49:55 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 14:49:55 UTC] Game file not found: #
+[25-Sep-2025 14:50:16 UTC] Error tracking game play for user_id: 48, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 14:50:24 UTC] Error tracking game play for user_id: 48, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 14:50:36 UTC] Error tracking game play for user_id: 48, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 14:50:42 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 14:50:42 UTC] Game file not found: #
+[25-Sep-2025 14:50:47 UTC] Error tracking game play for user_id: 62, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 14:52:18 UTC] Error tracking game play for user_id: 62, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 15:02:20 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 15:02:20 UTC] Game file not found: #
+[25-Sep-2025 15:02:35 UTC] Error tracking game play for user_id: 48, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 15:03:17 UTC] Error tracking game play for user_id: 48, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 15:03:44 UTC] Error tracking game play for user_id: 48, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 15:04:02 UTC] Error tracking game play for user_id: 48, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 15:10:07 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 15:10:07 UTC] Game file not found: #
+[25-Sep-2025 15:22:34 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 15:22:34 UTC] Game file not found: #
+[25-Sep-2025 16:06:24 UTC] Invalid profile picture for user_id: 115, path: Uploads/profiles/682942c797d28.png
+[25-Sep-2025 16:06:28 UTC] Unauthorized access attempt to learn.php by user_id: unknown
+[25-Sep-2025 16:06:41 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 16:06:41 UTC] Game file not found: #
+[25-Sep-2025 16:06:41 UTC] Invalid profile picture for user_id: 115, path: Uploads/profiles/682942c797d28.png
+[25-Sep-2025 16:06:46 UTC] Error tracking game play for user_id: 115, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 16:08:16 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 16:08:16 UTC] Game file not found: #
+[25-Sep-2025 16:08:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/qpmseduc/public_html/config/db.php:14
+Stack trace:
+#0 /home/qpmseduc/public_html/config/db.php(14): mysqli->__construct()
+#1 /home/qpmseduc/public_html/student/edubot.php(19): include_once('/home/qpmseduc/...')
+#2 {main}
+  thrown in /home/qpmseduc/public_html/config/db.php on line 14
+[25-Sep-2025 17:37:12 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 17:37:12 UTC] Game file not found: #
+[25-Sep-2025 17:37:20 UTC] Error tracking game play for user_id: 117, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 17:38:42 UTC] Error tracking game play for user_id: 117, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 17:39:51 UTC] Error tracking game play for user_id: 117, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 17:42:34 UTC] Error tracking game play for user_id: 117, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 18:30:25 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 18:30:25 UTC] Game file not found: #
+[25-Sep-2025 18:30:36 UTC] Error tracking game play for user_id: 198, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 18:36:50 UTC] Error tracking game play for user_id: 198, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 18:38:15 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 18:38:15 UTC] Game file not found: #
+[25-Sep-2025 18:38:16 UTC] Invalid profile picture for user_id: 115, path: Uploads/profiles/682942c797d28.png
+[25-Sep-2025 18:38:21 UTC] Error tracking game play for user_id: 115, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 18:38:21 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[25-Sep-2025 18:38:23 UTC] Error tracking game play for user_id: 198, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 18:40:40 UTC] Error tracking game play for user_id: 115, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 18:40:47 UTC] Error tracking game play for user_id: 198, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 21:20:28 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 21:20:28 UTC] Game file not found: #
+[25-Sep-2025 21:20:37 UTC] Error tracking game play for user_id: 112, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 21:21:12 UTC] Error tracking game play for user_id: 112, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 21:21:52 UTC] Error tracking game play for user_id: 112, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 21:22:03 UTC] Error tracking game play for user_id: 112, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[25-Sep-2025 21:24:45 UTC] Unauthorized access attempt to learn.php by user_id: unknown
+[25-Sep-2025 21:25:08 UTC] Game file not found: /student/games/math_dash_3d.html
+[25-Sep-2025 21:25:08 UTC] Game file not found: #
+[26-Sep-2025 10:50:30 UTC] Game file not found: /student/games/math_dash_3d.html
+[26-Sep-2025 10:50:30 UTC] Game file not found: #
+[26-Sep-2025 11:44:55 UTC] Game file not found: /student/games/math_dash_3d.html
+[26-Sep-2025 11:44:55 UTC] Game file not found: #
+[26-Sep-2025 11:45:02 UTC] Error tracking game play for user_id: 121, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[26-Sep-2025 22:19:03 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[26-Sep-2025 22:20:45 UTC] Game file not found: /student/games/math_dash_3d.html
+[26-Sep-2025 22:20:45 UTC] Game file not found: #
+[26-Sep-2025 22:23:43 UTC] Game file not found: /student/games/math_dash_3d.html
+[26-Sep-2025 22:23:43 UTC] Game file not found: #
+[26-Sep-2025 22:23:49 UTC] Error tracking game play for user_id: 118, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[26-Sep-2025 22:25:13 UTC] Game file not found: /student/games/math_dash_3d.html
+[26-Sep-2025 22:25:13 UTC] Game file not found: #
+[26-Sep-2025 22:25:25 UTC] Error tracking game play for user_id: 118, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[26-Sep-2025 22:25:57 UTC] Error tracking game play for user_id: 118, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[26-Sep-2025 22:27:42 UTC] Error tracking game play for user_id: 118, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[26-Sep-2025 22:30:19 UTC] Error tracking game play for user_id: 118, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[29-Sep-2025 17:16:29 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[04-Oct-2025 14:11:25 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[04-Oct-2025 14:11:39 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[04-Oct-2025 14:11:54 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[04-Oct-2025 14:12:49 UTC] Game file not found: /student/games/math_dash_3d.html
+[04-Oct-2025 14:12:49 UTC] Game file not found: #
+[04-Oct-2025 14:12:56 UTC] Error tracking game play for user_id: 118, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[04-Oct-2025 14:13:55 UTC] Error tracking game play for user_id: 118, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[04-Oct-2025 14:14:08 UTC] Error tracking game play for user_id: 118, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[04-Oct-2025 14:14:14 UTC] Error tracking game play for user_id: 118, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[04-Oct-2025 14:14:32 UTC] Error tracking game play for user_id: 118, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[04-Oct-2025 18:46:47 UTC] Game file not found: /student/games/math_dash_3d.html
+[04-Oct-2025 18:46:47 UTC] Game file not found: #
+[07-Oct-2025 20:05:34 UTC] Game file not found: /student/games/math_dash_3d.html
+[07-Oct-2025 20:05:34 UTC] Game file not found: #
+[07-Oct-2025 20:05:42 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[07-Oct-2025 20:05:57 UTC] Error tracking game play for user_id: 46, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[07-Oct-2025 20:07:36 UTC] Error tracking game play for user_id: 46, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[07-Oct-2025 20:08:55 UTC] Error tracking game play for user_id: 46, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[07-Oct-2025 20:11:04 UTC] Error tracking game play for user_id: 46, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[07-Oct-2025 20:14:05 UTC] Unauthorized access attempt to learn.php by user_id: unknown
+Unauthorized access attempt to user_management.php by user_id: unknown[13-Oct-2025 13:45:25 UTC] Querying user_id: 41, Result: {"id":41,"name":"DORCAS ABOAGYE","email":"dorcas@queens.com","role":"student","status":"active","phone":"233246477929","gender":"female","address":"0","admission_date":"2025-05-16","last_login":null,"last_ip":null,"national_id":"","force_password_change":1,"advisor_id":203,"department_id":7,"profile_picture":"\/Uploads\/profiles\/user_41_1753266169.jpg","department_name":"Upper Primary","advisor_name":"Oscar Agbeko"}
+[13-Oct-2025 13:45:26 UTC] Student classes for user_id: 41, Result: []
+[13-Oct-2025 13:45:26 UTC] Activity logs for user_id: 41, Result: []
+[13-Oct-2025 13:46:28 UTC] Querying user_id: 41, Result: {"id":41,"name":"DORCAS ABOAGYE","email":"dorcas@queens.com","role":"student","status":"active","phone":"233246477929","gender":"female","address":"0","admission_date":"2025-05-16","last_login":null,"last_ip":null,"national_id":"","force_password_change":1,"advisor_id":203,"department_id":7,"profile_picture":"\/Uploads\/profiles\/user_41_1753266169.jpg","department_name":"Upper Primary","advisor_name":"Oscar Agbeko"}
+[13-Oct-2025 13:46:28 UTC] Student classes for user_id: 41, Result: []
+[13-Oct-2025 13:46:28 UTC] Activity logs for user_id: 41, Result: []
+[13-Oct-2025 19:18:14 UTC] Game file not found: /student/games/math_dash_3d.html
+[13-Oct-2025 19:18:14 UTC] Game file not found: #
+[13-Oct-2025 19:20:27 UTC] Error tracking game play for user_id: 117, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[13-Oct-2025 19:21:06 UTC] Error tracking game play for user_id: 117, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+Unauthorized access attempt to user_management.php by user_id: unknown[14-Oct-2025 19:21:36 UTC] Unauthorized access attempt to games.php by user_id: unknown
+Unauthorized access attempt to user_management.php by user_id: unknownUnauthorized access attempt to user_management.php by user_id: 34[19-Oct-2025 18:58:07 UTC] Game file not found: /student/games/math_dash_3d.html
+[19-Oct-2025 18:58:07 UTC] Game file not found: #
+[19-Oct-2025 18:58:11 UTC] Error tracking game play for user_id: 116, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[19-Oct-2025 18:58:50 UTC] Error tracking game play for user_id: 116, game_id: 4, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[19-Oct-2025 18:59:20 UTC] Error tracking game play for user_id: 116, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[19-Oct-2025 19:00:54 UTC] Error tracking game play for user_id: 116, game_id: 6, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[20-Oct-2025 17:42:21 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[30-Oct-2025 12:34:06 UTC] Unauthorized access attempt to add_user.php by user_id: unknown
+[30-Oct-2025 12:39:27 UTC] Unauthorized access attempt to add_user.php by user_id: 229
+Unauthorized access attempt to user_management.php by user_id: unknownUnauthorized access attempt to user_management.php by user_id: unknown[02-Nov-2025 20:52:28 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[02-Nov-2025 20:53:19 UTC] Game file not found: /student/games/math_dash_3d.html
+[02-Nov-2025 20:53:19 UTC] Game file not found: #
+[02-Nov-2025 20:53:32 UTC] Error tracking game play for user_id: 118, game_id: 5, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[13-Nov-2025 10:26:21 UTC] Game file not found: /student/games/math_dash_3d.html
+[13-Nov-2025 10:26:21 UTC] Game file not found: #
+[13-Nov-2025 10:26:26 UTC] Error tracking game play for user_id: 114, game_id: 3, Error: Table 'qpmseduc_queenspa.game_plays' doesn't exist
+[13-Nov-2025 10:27:00 UTC] Game file not found: /student/games/math_dash_3d.html
+[13-Nov-2025 10:27:00 UTC] Game file not found: #
+[14-Nov-2025 12:57:44 UTC] Error adding user: Email already exists.
+[16-Nov-2025 13:11:04 UTC] Error adding user: Email already exists.
+[17-Nov-2025 10:37:28 UTC] Querying user_id: 247, Result: {"id":247,"name":"ASARE GLYNIS","email":"glynis@queens.com","role":"student","status":"active","phone":"","gender":"female","address":"Amasaman","admission_date":"2025-07-25","last_login":null,"last_ip":null,"national_id":"","force_password_change":1,"advisor_id":31,"department_id":null,"profile_picture":"0","department_name":null,"advisor_name":"Georgina Acquah"}
+[17-Nov-2025 10:37:28 UTC] Student classes for user_id: 247, Result: []
+[17-Nov-2025 10:37:28 UTC] Activity logs for user_id: 247, Result: []
+[17-Nov-2025 10:37:28 UTC] Invalid profile picture for user_id: 11, path: 11_1763138939.jpeg
+[17-Nov-2025 11:47:19 UTC] Error updating user: Duplicate entry 'owusuensaw@queens.com' for key 'email'
+[22-Nov-2025 16:45:34 UTC] Unauthorized access attempt to games.php by user_id: unknown
+[22-Nov-2025 16:47:05 UTC] Game file not found: /student/games/math_dash_3d.html
+[22-Nov-2025 16:47:05 UTC] Game file not found: #

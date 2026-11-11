@@ -1,0 +1,78 @@
+Array
+(
+    [user_id] => 27
+    [user_role] => teacher
+    [user_name] => Jim Tohybu
+    [user_email] => jimtohybu@gmail.com
+    [current_term_27] => Array
+        (
+            [id] => 1
+            [year] => 2024/2025
+            [term_name] => Term 3
+            [start_date] => 2025-05-06
+            [end_date] => 2025-07-25
+        )
+
+    [departments_27] => Array
+        (
+            [8] => Junior High
+            [6] => Lower Primary
+            [1] => Pre-School
+            [7] => Upper Primary
+        )
+
+)
+
+Redirecting: user_id=27, role=not set
+Array
+(
+    [user_id] => 27
+    [user_role] => teacher
+    [user_name] => Jim Tohybu
+    [user_email] => jimtohybu@gmail.com
+    [current_term_27] => Array
+        (
+            [id] => 1
+            [year] => 2024/2025
+            [term_name] => Term 3
+            [start_date] => 2025-05-06
+            [end_date] => 2025-07-25
+        )
+
+    [departments_27] => Array
+        (
+            [8] => Junior High
+            [6] => Lower Primary
+            [1] => Pre-School
+            [7] => Upper Primary
+        )
+
+)
+
+Redirecting: user_id=27, role=not set
+Array
+(
+    [user_id] => 27
+    [user_role] => teacher
+    [user_name] => Jim Tohybu
+    [user_email] => jimtohybu@gmail.com
+    [current_term_27] => Array
+        (
+            [id] => 1
+            [year] => 2024/2025
+            [term_name] => Term 3
+            [start_date] => 2025-05-06
+            [end_date] => 2025-07-25
+        )
+
+    [departments_27] => Array
+        (
+            [8] => Junior High
+            [6] => Lower Primary
+            [1] => Pre-School
+            [7] => Upper Primary
+        )
+
+)
+
+Redirecting: user_id=27, role=not set
