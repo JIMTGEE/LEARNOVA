@@ -214,7 +214,7 @@ $parents = $db->query("SELECT id, name FROM users WHERE role = 'parent' ORDER BY
 
 // Function to send SMS via Arkesel
 function send_sms($to, $message) {
-    $api_key = 'RFZLcHFxc05CTHlOWXhXY0xlbGo';
+    $api_key = 'Your_Key';
     $from = 'EduSync'; // Replace with your sender ID
     $url = "https://sms.arkesel.com/sms/api?action=send-sms&api_key=" . urlencode($api_key) . "&to=" . urlencode($to) . "&from=" . urlencode($from) . "&sms=" . urlencode($message);
     $response = file_get_contents($url);
