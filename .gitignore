@@ -4,6 +4,9 @@
 !.env.example
 supabase/functions/.env
 
+# ---- Transfer files ----
+*.bundle
+
 # ---- Dependencies and build output ----
 node_modules/
 dist/

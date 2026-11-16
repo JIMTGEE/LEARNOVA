@@ -57,7 +57,7 @@ scripts/             repo hygiene and, later, the data migration
 
 Needs Node 22+ and a [Supabase](https://supabase.com) project (free tier is fine for development).
 
-1. **Database.** In the Supabase SQL editor run, in order, the files in `supabase/migrations/`. For sample data also run `supabase/seed.sql` (development only). Or with the Supabase CLI: `npx supabase link --project-ref <ref>` then `npx supabase db push`.
+1. **Database.** In the Supabase SQL editor run, in order, the four files in `supabase/migrations/` (schema, access rules, fees, grants). For sample data also run `supabase/seed.sql` (development only). Or with the Supabase CLI: `npx supabase link --project-ref <ref>` then `npx supabase db push`.
 2. **Switch off public sign-up.** Authentication → Providers → Email → turn off *Allow new users to sign up*. Accounts are created by school admins, not by visitors.
 3. **Environment.** `cp apps/web/.env.example apps/web/.env.local` and fill in the project URL and anon/publishable key from Project Settings → API.
 4. **First admin.** Create a user in Authentication → Users, then run the `insert into public.profiles ...` snippet at the top of `supabase/seed.sql`.
@@ -95,6 +95,7 @@ Create a **Static Site** from this repository:
 ## Security rules for this repository
 
 - **No secrets in git.** `.env*` is ignored. The two `VITE_` values are public by design; **never** put a service-role key, SMS key or AI key in a `VITE_` variable. Those belong in Supabase secrets, used only by Edge Functions.
+- **Every table needs explicit grants.** Supabase no longer exposes new tables automatically (all projects since 30 Oct 2026), so each table's privileges are listed in `supabase/migrations/*_grants.sql` at the least level needed. A migration that adds a table must add its grants too; the test suite fails if it doesn't.
 - **Never commit** learner uploads, database dumps or logs. `.gitignore` covers them. If they were committed before, run `./scripts/untrack-sensitive.sh`.
 - Keys that were hardcoded in the old PHP code (Gemini, Arkesel) were exposed and must stay revoked. Create fresh ones.
 
