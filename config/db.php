@@ -1,89 +1,69 @@
 <?php
 /**
- * db.php - Database Connection Configuration
- * 
- * This file establishes a secure, reusable connection to the EduSync database.
- * Designed for local development and easy migration to production.
- * 
- * Database: edusync
- * Host: localhost
- * Charset: utf8mb4 (supports emojis, full Unicode)
- * 
- * @author Prince Seed × NerdSpring Dev Team
- * @version 1.0.0
- * @since 2025
+ * Reusable PDO connection for Learnova.
+ * Configure LEARNOVA_DB_HOST, LEARNOVA_DB_NAME, LEARNOVA_DB_USER, and
+ * LEARNOVA_DB_PASSWORD in the deployment environment.
  */
+require_once __DIR__ . '/branding.php';
 
-class Database {
-    private $host = 'localhost';
-    private $dbname = 'edusync';
-    private $username = 'root';        // Change in production
-    private $password = '';            // Change in production
+class Database
+{
+    private $host;
+    private $dbname;
+    private $username;
+    private $password;
     private $charset = 'utf8mb4';
-    
+
     private $pdo;
     private static $instance = null;
 
-    // Private constructor to prevent direct instantiation
-    private function __construct() {
+    private function __construct()
+    {
+        $this->host = getenv('LEARNOVA_DB_HOST') ?: 'localhost';
+        $this->dbname = APP_DATABASE_NAME;
+        $this->username = getenv('LEARNOVA_DB_USER') ?: 'root';
+        $this->password = getenv('LEARNOVA_DB_PASSWORD') ?: '';
+
         $dsn = "mysql:host={$this->host};dbname={$this->dbname};charset={$this->charset}";
-        
         $options = [
-            PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION, // Throw exceptions on errors
-            PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,       // Return associative arrays
-            PDO::ATTR_EMULATE_PREPARES   => false,                  // Use real prepared statements
-            PDO::ATTR_PERSISTENT         => true,                   // Persistent connections for performance
+            PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
+            PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+            PDO::ATTR_EMULATE_PREPARES => false,
+            PDO::ATTR_PERSISTENT => true,
         ];
 
         try {
             $this->pdo = new PDO($dsn, $this->username, $this->password, $options);
         } catch (PDOException $e) {
-            // In production, log this instead of displaying
-            error_log("Database Connection Failed: " . $e->getMessage());
-            die("We are experiencing technical difficulties. Please try again later.");
+            error_log('Learnova database connection failed: ' . $e->getMessage());
+            http_response_code(500);
+            die('We are experiencing technical difficulties. Please try again later.');
         }
     }
 
-    // Singleton pattern: Ensure only one connection exists
-    public static function getInstance() {
+    public static function getInstance()
+    {
         if (self::$instance === null) {
             self::$instance = new self();
         }
         return self::$instance;
     }
 
-    // Get the PDO instance
-    public function getConnection() {
+    public function getConnection()
+    {
         return $this->pdo;
     }
 
-    // Prevent cloning
     private function __clone() {}
 
-    // Prevent unserialization
-    public function __wakeup() {
-        throw new Exception("Cannot unserialize singleton");
+    public function __wakeup()
+    {
+        throw new Exception('Cannot unserialize singleton');
     }
 }
 
-// Global function for quick access (optional, for procedural code)
-function db(): PDO {
+function db(): PDO
+{
     return Database::getInstance()->getConnection();
 }
-
-/**
- * USAGE EXAMPLES:
- * 
- * 1. Using the class:
- *    $db = Database::getInstance()->getConnection();
- *    $stmt = $db->query("SELECT * FROM users");
- * 
- * 2. Using the helper function:
- *    $stmt = db()->prepare("SELECT * FROM users WHERE id = ?");
- *    $stmt->execute([1]);
- * 
- * 3. In login.php (later):
- *    $stmt = db()->prepare("SELECT * FROM users WHERE email = ? LIMIT 1");
- */
-
 ?>
