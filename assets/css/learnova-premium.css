@@ -1,0 +1,81 @@
+/* Learnova premium interface layer. Kept deliberately light-touch for legacy screens. */
+:root {
+    --learnova-ink: #102a43;
+    --learnova-navy: #0b2233;
+    --learnova-teal: #087f8c;
+    --learnova-cyan: #35c6d5;
+    --learnova-mint: #c8f2e7;
+    --learnova-surface: #ffffff;
+    --learnova-canvas: #f3f8fb;
+    --learnova-muted: #607387;
+    --learnova-border: #dce8ee;
+    --learnova-shadow: 0 16px 40px rgba(11, 34, 51, .08);
+}
+
+html { scroll-behavior: smooth; }
+body {
+    color: var(--learnova-ink);
+    background-color: var(--learnova-canvas);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+body, button, input, select, textarea { font-family: Inter, "Segoe UI", system-ui, sans-serif; }
+::selection { color: #fff; background: var(--learnova-teal); }
+:focus-visible { outline: 3px solid var(--learnova-cyan) !important; outline-offset: 3px; }
+
+/* Shared surfaces */
+.card, .glass-card, .login-card, .signup-card, .content-card, .dashboard-card {
+    border: 1px solid var(--learnova-border);
+    border-radius: 18px;
+    box-shadow: var(--learnova-shadow);
+}
+.card, .login-card, .signup-card { background: var(--learnova-surface); }
+.card, .glass-card { transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; }
+.card:hover, .glass-card:hover { transform: translateY(-3px); box-shadow: 0 20px 46px rgba(11, 34, 51, .12); border-color: #b7d8df; }
+
+/* Consistent Learnova palette across the legacy Bootstrap/Tailwind layouts. */
+.btn-primary, .btn-success, .btn-info, .bg-primary, .bg-success {
+    --bs-btn-bg: var(--learnova-teal);
+    --bs-btn-border-color: var(--learnova-teal);
+}
+.btn-primary, .btn-success, .btn-info, .btn-glow {
+    border-radius: 12px;
+    font-weight: 650;
+    transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease;
+}
+.btn-primary:hover, .btn-success:hover, .btn-info:hover, .btn-glow:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 10px 24px rgba(8, 127, 140, .22);
+}
+.text-primary, .text-info { color: var(--learnova-teal) !important; }
+
+/* App chrome */
+.navbar, .app-header, .top-app-bar {
+    background-color: var(--learnova-navy) !important;
+    box-shadow: 0 8px 26px rgba(11, 34, 51, .12);
+}
+.sidebar, .side-nav {
+    background: linear-gradient(180deg, #0b2233, #12394b) !important;
+    box-shadow: 8px 0 28px rgba(11, 34, 51, .12);
+}
+.sidebar .nav-link, .side-nav .nav-link { border-radius: 10px; transition: background .18s ease, transform .18s ease; }
+.sidebar .nav-link:hover, .side-nav .nav-link:hover { background: rgba(53, 198, 213, .16) !important; transform: translateX(2px); }
+.sidebar .nav-link.active, .side-nav .nav-link.active { background: rgba(53, 198, 213, .24) !important; }
+.app-header, .top-app-bar { color: white; }
+
+/* Forms and data tables */
+.form-control, .form-select, input:not([type="checkbox"]):not([type="radio"]), select, textarea {
+    border-color: var(--learnova-border);
+    border-radius: 11px;
+}
+.form-control:focus, .form-select:focus, input:focus, select:focus, textarea:focus {
+    border-color: var(--learnova-teal) !important;
+    box-shadow: 0 0 0 .22rem rgba(8, 127, 140, .14) !important;
+}
+.table { --bs-table-striped-bg: #f5fafb; }
+.table thead th { color: #31556a; background: #edf5f7; border-bottom-color: var(--learnova-border); }
+.badge { border-radius: 999px; font-weight: 650; }
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}
