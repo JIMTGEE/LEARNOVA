@@ -1,68 +1,34 @@
 <?php
-// templates/admin_footer.php - Admin Footer Template
-// Matches ultra modern design system with sea blue accents
-
-// Prevent direct access
+// Learnova admin portal footer.
 defined('ABSPATH') or exit;
 ?>
-
 <footer class="admin-footer">
     <div class="footer-content">
-        <p class="copyright">&copy; <?php echo date('Y'); ?> Edusync School Management System. All rights reserved.</p>
-        <p class="powered-by">Powered by xAI Grok - Version 1.0</p>
-        <nav class="footer-nav">
+        <p class="copyright">&copy; <?= date('Y') ?> Learnova. A new beginning for learning.</p>
+        <nav class="footer-nav" aria-label="Footer navigation">
             <a href="/privacy.php">Privacy Policy</a>
             <a href="/terms.php">Terms of Service</a>
-            <a href="/support.php">Support</a>
+            <a href="/contact.php">Support</a>
         </nav>
     </div>
 </footer>
-
+<script src="/assets/js/learnova-branding.js" defer></script>
 <style>
     .admin-footer {
-        background-color: var(--accent-deep-navy);
-        color: var(--primary-white);
+        background: #081f2c;
+        color: #fff;
         padding: 16px;
         text-align: center;
-        font-family: var(--font-ui);
+        font-family: var(--font-ui, sans-serif);
         font-size: 14px;
         margin-top: 32px;
     }
-
-    .footer-content {
-        max-width: 1200px;
-        margin: 0 auto;
-    }
-
-    .copyright {
-        margin-bottom: 8px;
-    }
-
-    .powered-by {
-        opacity: 0.8;
-        margin-bottom: 8px;
-    }
-
-    .footer-nav a {
-        color: var(--accent-soft-cyan);
-        margin: 0 8px;
-        text-decoration: none;
-        transition: color 0.2s;
-    }
-
-    .footer-nav a:hover {
-        color: var(--primary-sea-blue);
-    }
-
+    .footer-content { max-width: 1200px; margin: 0 auto; }
+    .copyright { margin-bottom: 8px; }
+    .footer-nav a { color: #35d0ff; margin: 0 8px; text-decoration: none; }
+    .footer-nav a:hover { color: #17a2b8; }
     @media (max-width: 768px) {
-        .admin-footer {
-            font-size: 12px;
-        }
-
-        .footer-nav {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
+        .admin-footer { font-size: 12px; }
+        .footer-nav { display: flex; flex-direction: column; gap: 8px; }
     }
 </style>
