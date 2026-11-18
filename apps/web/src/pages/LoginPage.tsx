@@ -40,9 +40,9 @@ export function LoginPage() {
       <section className="hidden flex-col justify-between bg-primary p-10 text-primary-foreground md:flex">
         <div className="flex items-center gap-3">
           <div className="grid size-10 place-items-center rounded-md bg-primary-foreground font-bold text-primary">
-            E
+            L
           </div>
-          <span className="text-xl font-bold">EduSync</span>
+          <span className="text-xl font-bold">Learnova</span>
         </div>
         <div className="max-w-md">
           <div className="mb-5 h-1 w-14 rounded-full bg-accent" />

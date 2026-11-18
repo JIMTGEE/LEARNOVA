@@ -20,6 +20,7 @@ logs/
 error_log
 error_log.txt
 /edusync.sql
+/learnova.sql
 /tables.txt
 /SELECT.txt
 

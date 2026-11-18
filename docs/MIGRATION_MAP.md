@@ -1,6 +1,6 @@
-# Migration map: legacy PHP/MySQL → EduSync (Supabase/Postgres)
+# Migration map: legacy PHP/MySQL → Learnova (Supabase/Postgres)
 
-All 84 legacy tables are accounted for below. This file is checked against `edusync.sql` when it is generated, so nothing is silently dropped.
+All 84 legacy tables are accounted for below. This file is checked against the legacy database dump (`edusync.sql`, now possibly `learnova.sql`) when it is generated, so nothing is silently dropped.
 
 ## What changed in the model
 

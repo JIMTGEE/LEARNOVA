@@ -1,8 +1,8 @@
-# EduSync
+# Learnova
 
 A multi-school management platform for schools in Ghana: attendance, results, report cards, fees and a parent portal.
 
-> **Status of this branch.** `restructure/react-supabase` rebuilds EduSync on React + Supabase. The original PHP application is still in the repository, untouched, until the new app reaches feature parity. Nothing here changes how the live PHP site runs.
+> **Status of this branch.** `restructure/react-supabase` rebuilds Learnova on React + Supabase. The original PHP application is still in the repository, untouched, until the new app reaches feature parity. Nothing here changes how the live PHP site runs.
 
 ## Architecture
 
