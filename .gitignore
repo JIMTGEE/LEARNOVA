@@ -1,0 +1,31 @@
+# ---- Secrets: never commit ----
+.env
+.env.*
+!.env.example
+supabase/functions/.env
+
+# ---- Dependencies and build output ----
+node_modules/
+dist/
+.vite/
+
+# ---- Legacy PHP runtime data (school records, logs, DB dumps) ----
+Uploads/
+backups/
+logs/
+*.log
+error_log
+error_log.txt
+/edusync.sql
+/tables.txt
+/SELECT.txt
+
+# ---- Supabase local state ----
+supabase/.branches/
+supabase/.temp/
+
+# ---- Editors and OS ----
+.DS_Store
+.phcode.json
+.vscode/
+.idea/
