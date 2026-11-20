@@ -1,2 +1,0 @@
-hey. help me here. using the ui and style from the attached dashboard file as well as the includes and templates with the attached db structure file.
-create a perfect 
