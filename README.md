@@ -1,4 +1,4 @@
-# EduSync
+# LEARNOVA
 
 A multi-school management platform for schools in Ghana: attendance, results, report cards, fees and a parent portal.
 
