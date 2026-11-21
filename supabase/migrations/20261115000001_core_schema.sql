@@ -1,5 +1,5 @@
 -- =====================================================================
--- EduSync core schema (multi-tenant)
+-- Learnova core schema (multi-tenant)
 --
 -- Rules this schema follows:
 --   1. Every business table has school_id.

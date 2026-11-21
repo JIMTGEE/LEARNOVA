@@ -38,7 +38,7 @@ $$;
 grant usage on schema auth, public to anon, authenticated, service_role;
 grant execute on function auth.uid() to anon, authenticated, service_role;
 
--- Supabase's default privileges for objects created in public
-alter default privileges in schema public grant all on tables    to anon, authenticated, service_role;
-alter default privileges in schema public grant all on functions to anon, authenticated, service_role;
-alter default privileges in schema public grant all on sequences to anon, authenticated, service_role;
+-- Mimic a current Supabase project: new tables and functions are NOT granted to the
+-- Data API roles automatically (new projects since 30 May 2026, all since 30 Oct 2026).
+-- The migrations must grant everything they need themselves, and the tests prove they do.
+alter default privileges in schema public revoke execute on functions from public;

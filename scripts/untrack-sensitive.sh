@@ -8,7 +8,7 @@
 set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
 
-for p in Uploads backups logs edusync.sql tables.txt SELECT.txt .phcode.json; do
+for p in Uploads backups logs edusync.sql learnova.sql tables.txt SELECT.txt .phcode.json; do
   git rm -r --cached --ignore-unmatch -q -- "$p"
 done
 

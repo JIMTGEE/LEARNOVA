@@ -17,11 +17,11 @@ export function DashboardLayout() {
       <aside className="border-b border-border bg-card md:flex md:flex-col md:border-r md:border-b-0">
         <div className="flex items-center gap-3 px-4 py-4">
           <div className="grid size-9 shrink-0 place-items-center rounded-md bg-primary font-bold text-primary-foreground">
-            E
+            L
           </div>
           <div className="min-w-0">
-            <p className="truncate font-semibold leading-tight">{school?.name ?? 'EduSync'}</p>
-            <p className="text-xs text-muted-foreground">EduSync</p>
+            <p className="truncate font-semibold leading-tight">{school?.name ?? 'Learnova'}</p>
+            <p className="text-xs text-muted-foreground">Learnova</p>
           </div>
         </div>
 
